@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UD5_02_API_RESTFull_.NET", "UD5_02_API_RESTFull_.NET\UD5_02_API_RESTFull_.NET.csproj", "{039183DD-7A58-4D0B-A936-26C1A85C810C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039183DD-7A58-4D0B-A936-26C1A85C810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039183DD-7A58-4D0B-A936-26C1A85C810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039183DD-7A58-4D0B-A936-26C1A85C810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039183DD-7A58-4D0B-A936-26C1A85C810C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0848EC70-5371-4B2F-8CDA-4503314C5319}
+	EndGlobalSection
+EndGlobal
